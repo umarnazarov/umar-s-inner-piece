@@ -1,0 +1,30 @@
+{
+  "name": "umar-s-inner-piece",
+  "displayName": "Umar's Inner Piece",
+  "description": "Umars Inner Piece",
+  "version": "0.0.1",
+  "publisher": "UmarNazarov",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark blue",
+    "dark",
+    "ocean blue",
+    "Umar Nazarov",
+    "Umar's Inner Piece"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Umar's Inner Piece",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Umar's Inner Piece-color-theme.json"
+      }
+    ]
+  }
+}
